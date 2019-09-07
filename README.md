@@ -1,2 +1,2 @@
 # AntecedentesFinancieros
-Proyecto que se encarga de la gestión de los antecedentes financieros de las personas
+Proyecto que se encarga de gestionar los antecedentes financieros de las personas
